@@ -1,16 +1,18 @@
-### Hi there 👋
+![Disini menampilkan sebuah website microfronend penjualan skateboard sederhana]![Alt text](ss.PNG)
+dengan menekan tombol contact dan keranjang akan muncul alert ![Alt text](ss2.PNG)
 
-<!--
-**rizqiiqmal/rizqiiqmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+function statment () {
+    var a, b, c;
+    a = 1;
+    b = 2;
+    c = a * b;
+    alert("transfer sebelum cek uot " + c + " skateboard");
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+function AritmatikaSyntax () {
+    let a = 9;
+    let b = 10;
+    let tambah = a + b;
+    alert("bisa hubungi" + tambah + "@rzqiiqmal_");    
+```
